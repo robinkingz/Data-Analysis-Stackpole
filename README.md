@@ -1,3 +1,2 @@
 # Data-Analysis-for-production
-Database: For Database connection and SQL command
-Part Status: Check status of part
+[Readme.txt](https://github.com/robinkingz/Data-Analysis-for-production-/files/9438552/Readme.txt)
